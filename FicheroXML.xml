@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="FormatoXSL.xsl"?>
+<Facturas>
+    <Factura>
+        <Datos_empresa>
+            <Empresa>Holded SA</Empresa>
+            <Direccion>Joan de Borbó, 101</Direccion>
+            <Ciudad>Barcelona</Ciudad>
+            <Pais>España</Pais>
+            <C.P>08001</C.P>
+            <Email>aldo.solanas@holded.com</Email>
+            <Telefono>932710167</Telefono>
+            <IBAN>ES66210064184012345679</IBAN>
+        </Datos_empresa>
+        <Datos_Factura>
+            <Id_Factura>T190030</Id_Factura>
+            <Moneda>Euro</Moneda>
+            <Fecha>
+                <Dia>25</Dia>
+                <Mes>9</Mes>
+                <Anio>2019</Anio>
+            </Fecha>
+            <Productos>
+                <Producto>
+                    <Tipo>Gafas de sol</Tipo>
+                    <Detalle>Warfare</Detalle>
+                    <Precio>90000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>90000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>108900</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>VANS bambas</Tipo>
+                    <Detalle>bamba de color negro old school</Detalle>
+                    <Precio>70000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>70000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>84700</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>beanie</Tipo>
+                    <Detalle>Talla M</Detalle>
+                    <Precio>25000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>25000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>30250</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Tabla de surf</Tipo>
+                    <Detalle>Modelo 6.3</Detalle>
+                    <Precio>356000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>356000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>430760</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Camiseta Nike</Tipo>
+                    <Detalle>Negra L</Detalle>
+                    <Precio>22000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>22000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>26620</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Camiseta Nike</Tipo>
+                    <Detalle>Blanca XL</Detalle>
+                    <Precio>22000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>22000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>26620</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Guantes</Tipo>
+                    <Detalle>Piel reforzada/negro</Detalle>
+                    <Precio>12000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>12000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>14520</Total>
+                </Producto>
+            </Productos>
+            <Base_imponible>597</Base_imponible>
+            <IVA>125,370</IVA>
+            <Total_Final>722</Total_Final>
+        </Datos_Factura>
+    </Factura>
+
+    <Factura>
+        <Datos_empresa>
+            <Empresa>Holded SA</Empresa>
+            <Direccion>Joan de Borbó, 101</Direccion>
+            <Ciudad>Barcelona</Ciudad>
+            <Pais>España</Pais>
+            <C.P>08001</C.P>
+            <Email>aldo.solanas@holded.com</Email>
+            <Telefono>932710167</Telefono>
+            <IBAN>ES66210064184012345679</IBAN>
+        </Datos_empresa>
+        <Datos_Factura>
+            <Id_Factura>T210045</Id_Factura>
+            <Moneda>Euro</Moneda>
+            <Fecha>
+                <Dia>15</Dia>
+                <Mes>10</Mes>
+                <Anio>2023</Anio>
+            </Fecha>
+            <Productos>
+                <Producto>
+                    <Tipo>Ordenador portátil</Tipo>
+                    <Detalle>HP Pavilion 15</Detalle>
+                    <Precio>750000</Precio>
+                    <Unidades>2</Unidades>
+                    <Subtotal>1500000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>1815000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Monitor</Tipo>
+                    <Detalle>LG UltraWide 29"</Detalle>
+                    <Precio>300000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>300000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>363000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Teclado mecánico</Tipo>
+                    <Detalle>Logitech G Pro</Detalle>
+                    <Precio>120000</Precio>
+                    <Unidades>3</Unidades>
+                    <Subtotal>360000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>435600</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Silla ergonómica</Tipo>
+                    <Detalle>Herman Miller Aeron</Detalle>
+                    <Precio>1200000</Precio>
+                    <Unidades>1</Unidades>
+                    <Subtotal>1200000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>1452000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Software antivirus</Tipo>
+                    <Detalle>Kaspersky Total Security</Detalle>
+                    <Precio>50000</Precio>
+                    <Unidades>5</Unidades>
+                    <Subtotal>250000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>302500</Total>
+                </Producto>
+            </Productos>
+            <Base_imponible>3610000</Base_imponible>
+            <IVA>758,100</IVA>
+            <Total_Final>4368100</Total_Final>
+        </Datos_Factura>
+    </Factura>
+
+    <Factura>
+        <Datos_empresa>
+            <Empresa>Holded SA</Empresa>
+            <Direccion>Joan de Borbó, 101</Direccion>
+            <Ciudad>Barcelona</Ciudad>
+            <Pais>España</Pais>
+            <C.P>08001</C.P>
+            <Email>aldo.solanas@holded.com</Email>
+            <Telefono>932710167</Telefono>
+            <IBAN>ES66210064184012345679</IBAN>
+        </Datos_empresa>
+        <Datos_Factura>
+            <Id_Factura>GEC202410</Id_Factura>
+            <Moneda>Euro</Moneda>
+            <Fecha>
+                <Dia>1</Dia>
+                <Mes>01</Mes>
+                <Anio>2021</Anio>
+            </Fecha>
+            <Productos>
+                <Producto>
+                    <Tipo>Panel solar</Tipo>
+                    <Detalle>Modelo EcoSun 300W</Detalle>
+                    <Precio>500000</Precio>
+                    <Unidades>10</Unidades>
+                    <Subtotal>5000000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>6050000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Batería de litio</Tipo>
+                    <Detalle>PowerStore 10kWh</Detalle>
+                    <Precio>1200000</Precio>
+                    <Unidades>4</Unidades>
+                    <Subtotal>4800000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>5808000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Inversor solar</Tipo>
+                    <Detalle>SunPower 5kW</Detalle>
+                    <Precio>750000</Precio>
+                    <Unidades>2</Unidades>
+                    <Subtotal>1500000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>1815000</Total>
+                </Producto>
+                <Producto>
+                    <Tipo>Controlador de carga</Tipo>
+                    <Detalle>SolarTech MPPT 60A</Detalle>
+                    <Precio>200000</Precio>
+                    <Unidades>5</Unidades>
+                    <Subtotal>1000000</Subtotal>
+                    <IVA>21%</IVA>
+                    <Total>1210000</Total>
+                </Producto>
+            </Productos>
+            <Base_imponible>12300000</Base_imponible>
+            <IVA>2,583,000</IVA>
+            <Total_Final>14883000</Total_Final>
+        </Datos_Factura>
+    </Factura>
+</Facturas>
